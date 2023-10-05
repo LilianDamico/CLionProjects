@@ -1,0 +1,3 @@
+/home/lilian/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir
+/home/lilian/CLionProjects/basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lilian/CLionProjects/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
